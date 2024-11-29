@@ -26,3 +26,21 @@ Upon successfully connecting to the access point, the device will be able to acc
 
 <h3>-The usage of a network interface</h3>
 <h4>I have used an external network interface capable of monitor mode for this project.</h4>
+
+
+
+
+
+<h2>DEMO</h2>
+<h3>Connect the Interface</h3>
+![IMG_4489](https://github.com/user-attachments/assets/89fe1bc6-6c2a-45e1-9f07-de00078259f3)
+![IMG_4489](https://github.com/user-attachments/assets/60b252b4-544c-4e5d-8437-4dcc960aac93)
+
+<h3>hostapd configuration</h3>
+
+
+
+
+
+
+
