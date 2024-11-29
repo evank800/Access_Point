@@ -9,7 +9,7 @@ Upon successfully connecting to the access point, the device will be able to acc
 
 <h2>What I have learned:</h2>
 
-<h3>-Practical insight to the general functions of a router.</h3>
+<h3>-Practical insight to the general functions of a router/hotspot</h3>
 
 <h3>-Importance of different security features such as:</h3>
 
