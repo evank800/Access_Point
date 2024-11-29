@@ -44,5 +44,20 @@ Upon successfully connecting to the access point, the device will be able to acc
 <h3>start both hostapd and dnsmasq</h3>
 <img src="https://github.com/evank800/Access_Point/blob/main/Dropbox/IMG_4490.jpeg"></img>
 
+<h3>Check the interface</h3>
+<img src="https://github.com/evank800/Access_Point/blob/main/Dropbox/IMG_4495.jpeg"></img>
 
+<h3>NAT Table</h3>
+<img src="https://github.com/evank800/Access_Point/blob/main/Dropbox/IMG_4494.jpeg"></img>
 
+<h3>Look for AP on Phone</h3>
+<img src="https://github.com/evank800/Access_Point/blob/main/Dropbox/IMG_4491.jpeg"></img>
+
+<h3>Check configurations</h3>
+<img src="https://github.com/evank800/Access_Point/blob/main/Dropbox/IMG_4492.jpeg"></img>
+
+<h3>Access captive portal associated with the static ip(of the AP) </h3>
+<img src="https://github.com/evank800/Access_Point/blob/main/Dropbox/IMG_4493.jpeg"></img>
+
+<h3>Custom .crt file(here named Ghost)</h3>
+<img src="https://github.com/evank800/Access_Point/blob/main/Dropbox/IMG_4496.jpeg"></img>
