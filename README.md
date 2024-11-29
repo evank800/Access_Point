@@ -33,14 +33,16 @@ Upon successfully connecting to the access point, the device will be able to acc
 
 <h2>DEMO</h2>
 <h3>Connect the Interface</h3>
-![IMG_4489](https://github.com/user-attachments/assets/89fe1bc6-6c2a-45e1-9f07-de00078259f3)
-![IMG_4489](https://github.com/user-attachments/assets/60b252b4-544c-4e5d-8437-4dcc960aac93)
+<img src="https://github.com/evank800/Access_Point/blob/main/Dropbox/IMG_4489.jpeg"></img>
 
 <h3>hostapd configuration</h3>
+<img src="https://github.com/evank800/Access_Point/blob/main/Dropbox/IMG_4497.jpeg"></img>
 
+<h3>dnsmasq configuration</h3>
+<img src="https://github.com/evank800/Access_Point/blob/main/Dropbox/IMG_4498.jpeg"></img>
 
-
-
+<h3>start both hostapd and dnsmasq</h3>
+<img src="https://github.com/evank800/Access_Point/blob/main/Dropbox/IMG_4490.jpeg"></img>
 
 
 
