@@ -19,6 +19,6 @@ Upon successfully connecting to the access point, the device will be able to acc
 
 <h4>-CA Certificate</h4> I have created my own CA Certificate using **openssl**, sent this to iphone. Although getting the device to download the .crt file is (theoretically) easy enough(ex. by using phishing captive portals), getting the device to trust the certificate is highly infeasible, as it requires the user to take suspiciously many steps to achieve this. 
 
-<h3>Practical insight to a DHCP server</h3>
+<h3>-Practical insight to a DHCP server</h3>
 
 <h3>-Deeper understanding of NAT</h3>
