@@ -22,3 +22,7 @@ Upon successfully connecting to the access point, the device will be able to acc
 <h3>-Practical insight to a DHCP server</h3>
 
 <h3>-Deeper understanding of NAT</h3>
+<h4>Configuring NAT can almost completely manipulate the incoming packets. </h4>
+
+<h3>-The usage of a network interface</h3>
+<h4>I have used an external network interface capable of monitor mode for this project.</h4>
